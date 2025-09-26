@@ -1,0 +1,13 @@
+package com.birdie.backend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BirdieBackendApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
